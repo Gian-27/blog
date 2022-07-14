@@ -1,0 +1,11 @@
+.container{
+    width: 100%;
+    background-color: black;
+    font-family: 'Lobster Two', cursive;
+}
+
+
+.carrusel {
+    max-width: 80%;
+    padding-left: 300px;
+}
